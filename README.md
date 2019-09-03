@@ -1,4 +1,4 @@
-# MEAN-PetStore-HugoParapar
+# MEVN-Julian-Lopez
 
 Aplicación curso Fullstack-MEVN
 
